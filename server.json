@@ -23,6 +23,22 @@
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://i2.wp.com/www.italialegal.com.br/wp-content/uploads/2019/08/Mitos-da-gastronomia-italiana-Comidas-italianas-que-n%C3%A3o-existem-na-It%C3%A1lia1-e1567024391570.jpg?fit=350%2C350",
+      "name": "A bolonhesa",
+      "price": "35.90",
+      "description": "Macarrão a bolonhesa",
+      "available": false,
+      "id": 4
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Teste 2",
+      "price": "20.90",
+      "description": "teste 2",
+      "available": true,
+      "id": 5
     }
   ]
 }
